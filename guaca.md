@@ -1,4 +1,4 @@
-# Guacamole
+# Guacamole (yum)
 ## Ingredients
 * avocado
 * lime
