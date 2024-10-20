@@ -1,2 +1,4 @@
 *.png
 receipts/
+log_*
+!log_01
